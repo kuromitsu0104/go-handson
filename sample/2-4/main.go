@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"hello"
+	"example.com/hello"
 )
 
 func main() {

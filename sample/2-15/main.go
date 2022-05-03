@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"hello"
+	"example.com/hello"
 )
 
 func main() {
