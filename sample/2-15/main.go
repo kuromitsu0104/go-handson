@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"local.packages/hello"
+	"hello"
 )
 
 func main() {
