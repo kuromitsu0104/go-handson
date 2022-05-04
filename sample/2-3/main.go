@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"example.com/hello"
+	"local.packages/hello"
 )
 
 func main() {

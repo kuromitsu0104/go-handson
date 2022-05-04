@@ -1,1 +1,1 @@
-module example.com/hello
+module local.packages/hello

@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"example.com/hello"
+	"local.packages/hello"
 )
 
 func main() {
