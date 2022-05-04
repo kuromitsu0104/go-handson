@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"local.packages/hello"
+	"github.com/kuromitsu0104/go-handson/hello"
 )
 
 func main() {
