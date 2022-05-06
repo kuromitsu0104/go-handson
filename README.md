@@ -1,7 +1,3 @@
-# go-handson
+# README
 
-## 注意点
-
-- VSCode で ./sample 配下の go ファイルで問題表示が出る
-  -> main を複数呼び出しているのが原因
-  -> go run, go build は動作するので一旦放置中
+書籍「Go 言語で作るインタプリタ」の実行テスト用のブランチ
